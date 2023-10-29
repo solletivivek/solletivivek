@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **solletivivek@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NfUNudh_x7x3BsbpoYtu2RPCZZsVz_rv/view](https://drive.google.com/file/d/1NfUNudh_x7x3BsbpoYtu2RPCZZsVz_rv/view)
+- 📄 Know about my experiences [https://svivek.tech/resume](https://svivek.tech/resume)
 
 - ⚡ Fun fact **"I may not be a rocket scientist, but I'm a pretty dam good developing websites.And that's no joke!"**
 
