@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [online nutrition consultancy project using spring boot](https://github.com/solletivivek/SDP-spring-boot)
 
-- 👨‍💻 All of my projects are available at [svivek.tech](svivek.tech)
+- 👨‍💻 All of my projects are available at [svivek.tech](https://svivek.tech)
 
 - 💬 Ask me about **react,django,spring,figma**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://svivek.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://svivek.tech" height="30" width="40" /></a>
+<a href="https://svivek.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://svivek.tech" height="30" width="40" /></a>
 <a href="https://twitter.com/solletivivek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="solletivivek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/solleti-vivek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/solleti-vivek/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/s._.vivek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/s._.vivek/" height="30" width="40" /></a>
